@@ -1,5 +1,5 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&size=35&center=true&vCenter=true&width=1000&height=180&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000066&size=35&center=true&vCenter=true&width=1000&height=180&section=header"/>
 </a>
 
 
