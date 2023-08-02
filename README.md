@@ -3,7 +3,7 @@
 </a>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hello+there+👋,+I'm+Jeysson;I'm+an+enthusiast+of+technology;I'm+a+Sys+Admin+Network+and+DevOps+fan;🙌+Be+Welcome!+🙌)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=001eff&size=35&center=true&vCenter=true&width=1000&lines=Hello+there+👋,+I'm+Jeysson;I'm+an+enthusiast+of+technology;I'm+a+Sys+Admin+Network+and+DevOps+fan;🙌+Be+Welcome!+🙌)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyconr&label=Profile%20views&color=0e75b6&style=flat" alt="akbarsazish" /> </p>
 
@@ -81,6 +81,20 @@ echo "$about_me"
   </a>
 </div> 
 <br>
+
+## Topics 👽
+
+💻 Web Development &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ♾️ DevOps
+
+🐧 Linux & Networking &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔒 Security
+
+🎸 Music &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📖 Books/Comics
+
+
+## My repos 😱
+
+👇👇👇 I have pinned some  of my favourite posts bellow. 👇👇👇
+
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00698b&height=120&section=footer"/>
