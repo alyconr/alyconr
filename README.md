@@ -17,10 +17,9 @@
 #!/bin/bash
 
 # Stacks
-devops_stack_technology="Linux, shell, Docker, Kubernetes, Ansible, AWS, Heroku, Jenkins, \
-Git, GitHub Actions, Gitlab, SonarQube, puppet and chef"
-web_stack_technology="HTML, CSS, JavaScript, React, node.js, express, postgreSQL, \
-monogoDB"
+devops_stack_technology="Linux, shell, Docker, Kubernetes, Ansible, AWS, Heroku, Jenkins, 
+Git, GitHub Actions, \ Gitlab, SonarQube, puppet and chef"
+web_stack_technology="HTML, CSS, JavaScript, React, node.js, express, postgreSQL, monogoDB"
 status="Open to new opportunities"
 challenge="Become a DevOps Engineer with strong technical skills and a \
 passion for learning new technologies"
@@ -31,10 +30,10 @@ such as Full Stack Web Development, Networking, Linux, and DevOps."
 about_me="
 ## About Me
 
-Hello! 👋 I'm passionate about technology and constantly exploring new \
-frontiers. I come from a Sys Admin Network field, and now I am working to \
+Hello! 👋 I'm passionate about technology and constantly exploring new 
+frontiers. I come from a Sys Admin Network field, \ and now I am working to 
 ${challenge}. My primary stack includes: \
-${devops_stack_technology}, and I enjoy building web applications with \
+${devops_stack_technology}, and I enjoy building web applications with 
 ${web_stack_technology}. Currently, I'm ${status}.
 
 **Fun Facts:** \
