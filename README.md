@@ -23,8 +23,8 @@ web_stack_technology="HTML, CSS, JavaScript, React, node.js, express, postgreSQL
 status="Open to new opportunities"
 challenge="Become a DevOps Engineer with strong technical skills and a 
 passion for learning new technologies"
-fun_facts="I'm a technology fan and I love to explore as many fields as I can, \
-such as Full Stack Web Development, Networking, Linux, and DevOps."
+fun_facts="I'm a technology fan and I love to explore as many fields as I can, such as Full Stack Web Development, 
+Networking, Linux, and DevOps."
 
 # About Me section
 about_me="
