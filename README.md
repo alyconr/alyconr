@@ -30,13 +30,11 @@ Networking, Linux, and DevOps."
 about_me="
 ## About Me
 
-Hello! 👋 I'm passionate about technology and constantly exploring new 
-frontiers. I come from a Sys Admin Network field, \ and now I am working to 
-${challenge}. My primary stack includes: \
-${devops_stack_technology}, and I enjoy building web applications with 
+Hello! 👋 I'm passionate about technology and constantly exploring new frontiers. I come from a Sys Admin Network field,  and now I am working to 
+${challenge}. My primary stack includes: ${devops_stack_technology}, and I enjoy building web applications with 
 ${web_stack_technology}. Currently, I'm ${status}.
 
-**Fun Facts:** \
+**Fun Facts:** 
 ${fun_facts}
 
 Let's connect and collaborate on exciting projects!"
