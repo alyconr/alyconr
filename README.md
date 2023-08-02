@@ -3,7 +3,7 @@
 </a>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fb7b50&size=35&center=true&vCenter=true&width=1000&lines=Hello+there+👋,+I'm+Jeysson;I'm+an+enthusiast+of+technology;I'm+a+Sys+Admin+Network+and+DevOps+fan;🙌+Be+Welcome!+🙌)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fb7b50&size=35&center=true&vCenter=true&width=1000&lines=Hello+there+👋,+I'm+Jeysson+😎;I'm+an+enthusiast+of+technology+👨‍💻;I'm+a+Sys+Admin+Network+and+DevOps+fan+👽;🙌+Be+Welcome!+🙌)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyconr&label=Profile%20views&color=0e75b6&style=flat" alt="akbarsazish" /> </p>
 
