@@ -12,25 +12,29 @@
 ![snake gif](https://github.com/alyconr/alyconr/blob/output/github-contribution-grid-snake.svg)
 
 ## ✨About Me
-```bash
+
+```bash  
 #!/bin/bash
 
 # Stacks
-devops_stack_technology="Linux, shell, Docker, Kubernetes, Ansible, AWS, Heroku, Jenkins,\nGit, GitHub Actions, Gitlab, SonarQube, puppet and chef"
-web_stack_technology="HTML, CSS, JavaScript, React, node.js, express, postgreSQL,\nmonogoDB"
+devops_stack_technology="Linux, shell, Docker, Kubernetes, Ansible, AWS, Heroku, Jenkins, Git, GitHub Actions, Gitlab, SonarQube, puppet and chef"
+web_stack_technology="HTML, CSS, JavaScript, React, node.js, express, postgreSQL, monogoDB"
 status="Open to new opportunities"
-challenge="Become a DevOps Engineer with strong technical skills and a\npassion for learning new technologies"
-fun_facts="I'm a technology fan and I love to explore as many fields as I can,\nsuch as Full Stack Web Development, Networking, Linux, and DevOps."
+challenge=" Become a DevOps Engineer with strong technical skills and a passion for learning new technologies"
+fun_facts="I'm a technology fan and I love to explore as many fields as I can, such as Full Stack Web Development, Networking, Linux, and DevOps."
 
 # About Me section
 about_me="
 ## About Me
 
-Hello! 👋 I'm passionate about technology and constantly exploring new\nfrontiers. I come from a Sys Admin Network field, and now I am working to\n${challenge}. My primary stack includes:\n\n- ${devops_stack_technology}\n\nI also enjoy building web applications with:\n\n- ${web_stack_technology}\n\nCurrently, I'm ${status}.\n\n**Fun Facts:**\n${fun_facts}\n\nLet's connect and collaborate on exciting projects!"
+Hello! 👋 I'm passionate about technology and constantly exploring new frontiers. I come from Sys Admin Network field and now I am working to  ${challenge}. My primary stack includes ${devops_stack_technology}, and I enjoy building web applications with  ${web_stack_technology}. Currently, I'm ${status}.
+
+**Fun Facts:** ${fun_facts}
+
+Let's connect and collaborate on exciting projects!"
 
 # Print the About Me section
-echo -e "$about_me"
-
+echo "$about_me"
 ```
 
 
