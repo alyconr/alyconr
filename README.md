@@ -99,5 +99,5 @@ echo "$about_me"
 
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00698b&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0352FB&height=120&section=footer"/>
 </a>
